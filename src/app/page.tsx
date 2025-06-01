@@ -7,7 +7,7 @@ export default function Home() {
   const featuredProperties = [
     {
       id: 1,
-      title: 'Modern Villa',
+      title: 'Modern Villa-2',
       price: '$850,000',
       location: 'Beverly Hills, CA',
       image: 'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3',
